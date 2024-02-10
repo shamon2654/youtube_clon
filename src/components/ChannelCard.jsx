@@ -5,6 +5,7 @@ import { Link } from "react-router-dom"
 import { demoProfilePicture } from "../utils/Constants"
 
 const ChannelCard = ({ channelDetails ,marginTop}) => {
+  
   return (
     <Box
       sx={{
